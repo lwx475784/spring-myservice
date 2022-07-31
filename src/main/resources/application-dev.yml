@@ -1,0 +1,5 @@
+logging:
+  level:
+#    root: debug
+    web: debug
+    com.frank.learning: debug
